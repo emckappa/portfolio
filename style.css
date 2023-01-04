@@ -1,0 +1,98 @@
+header{
+  padding: 5px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 10px;
+  color: rgb(3, 0, 0);
+}
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-size: bold;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    line-height: 40px;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-size: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+img{
+    border-radius: 50%;
+    border: 1px solid #ebe8e8;
+    width: auto;
+    height: auto;
+}
+
+.card{
+    text-align: center;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+  
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+  
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+  
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 16px;
+    color: grey;
+}
+
+.bio{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-size: bold;
+}
+
