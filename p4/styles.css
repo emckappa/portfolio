@@ -1,0 +1,42 @@
+
+
+h1 {
+  margin-left:auto; 
+  margin-right:auto;
+ }
+
+.container{             
+  width: 50%;             
+  display: flex;             
+  flex-direction: column;             
+  align-items: center;             
+  justify-content: center ;             
+  margin: auto;         
+}
+
+.box{
+  font-family: Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 50px;
+}
+
+
+
+.display-1{
+  font-family: 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.display-2{
+  font-family: 'Courier', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+body{
+
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  
+}
+
